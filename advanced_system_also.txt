@@ -1,0 +1,330 @@
+acknowledgement
+   I would like to express my special thanks of gratitude to my teacher (Name of the teacher) as well as our principal (Name of the principal)who gave me the golden opportunity to do this wonderful project on the topic (Write the topic name), which also helped me in doing a lot of Research and i came to know about so many new things I am really thankful to them.
+
+I express my sincere thanks to all staff members in the department of Computer Science and Engineering for all their support and cooperation .Finally, I would like to acknowledge all my friends and classmates for their heartfelt cooperation and tremendous support.
+
+declaration
+  I hereby declare that the Project report entitled " A STUDY ON
+CUSTOMERS AWARENESS TOWARDS THE INSURANCE POLICY OF
+LIFE INSURANCE CORPORATION OF INDIA LTD — WITH
+REFERENCE TO TIRUCHANGODE UNION" submitted to the Periyar
+Insutitute of Distance Education ,periyar University Salem in partial fulfilment
+of the requirements for the award of the degree of MASTER OF PHILOSOPHY
+IN COMMERCE is a record of original dissertation work done by me,
+under the guidance and supervision of Mr.C.PARAMASIVAN,
+M.Com.,M.A.,M.Phil.,BLISC,SLET Lecturer and Research Supervisor,
+Department of Commerce, Vivekanandha College of Arts And Sciences For
+Women,Elayampalayam,Tiruchengodu and it has not formed the basis for the
+award of any Degree/Diploma/Associateship/ Fellowship or other similar title to
+any candidate of any University. 
+-----------------------------------------------------
+                             index
+------------------------------------------------------------
+introduction 
+          hard book to audion book and text book converter is a desktop based software access by any user who can download this from any where from internet .This software help to user easily capture the image from the camera and convert them audio as well as text book that can be access from any where.
+ this software help to user to only listien by they can understand the containt which have been written in books .
+----project name---- is based on python technology and also it used so many libraies of python.In this software their is given camera options  threw  also we can capture the object around us and convert them audio also text file.
+It also support degital technology which tedency to convert the all the offline object onto the internet 
+
+objective of project 
+  so what is the purpose or objective of this desktop application 
+  firstly help to those peoples who can read easily
+  help them knowledege something they need threw tecnology 
+  support degital world also 
+  help them to understand the knowledge withoud reading the books also  other offline materials.
+ these some ways of helping user
+  help them to read something without reading 
+  reduse the time to understand something 
+ they can study and listien from anywhere in the range of audio
+ help them to save the money also 
+ help them to enjoy a great new technology also 
+ also reduse the size of the books 
+ help user to learn from anywhre whiout buying the books also 
+
+SOFTWARE REQUIRMENT
+The software requirements explain the software components that we need to develop our project. It is selected such a way that it reduces our work and easy to implement the project anywhere.
+WINDOWS OS (8/7/XP / 2000 / 2000 Server / 2003 Server)
+python idle 
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+cv2
+  OpenCV-Python is a library of Python bindings designed to solve computer vision problems. cv2. imread() method loads an image from the specified file. If the image cannot be read (because of missing file, improper permissions, unsupported or invalid format) then this method returns an empty matrix.
+numpy 
+  NumPy is a Python package which stands for 'Numerical Python'. It is the core library for scientific computing, which contains a powerful n-dimensional array object, provide tools for integrating C, C++ etc. It is also useful in linear algebra, random number
+request
+ this is used to send the request to the server for the dffierent api key has been usen for here
+io
+he io module provides the Python interfaces to stream handling. Under Python 2. x, this is proposed as an alternative to the built-in file object, but in Python 3. x it is the default interface to access files and streams. ... It defines the basic
+json 
+Javascript Object Notation abbreviated as JSON is a light-weight data interchange format. It Encode Python objects as JSON strings, and decode JSON strings into Python objects . ... So lets dive into json module which Python offers for formatting JSON output.
+pyttx3
+Project description. pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3
+
+
+
+HARDWARE SPECIFICATION
+
+
+The decision to acquire computer hardware or software must be handled in the same way as any other business decision. The variety of sizes and Types of computing resources available puts a burden on the analyst who must select suitable hardware, software or services and advice the top management accordingly.
+
+Today, selecting a system is a serious and time-consuming business. The time spent on the selection process is a function of the application and whether the system is a basic microcomputer or a mainframe. In either case, planning system selection and acquiring experienced help were necessary payoff in the long run.
+
+The selection process should be viewed as a project and a project team should be formed with the help of management.
+
+
+Hardware Specification for Development, Implementation
+
+Minimum Requirements:
+
+P-IV 2.8 GHz Processor and Above
+
+RAM 512MB and Above
+
+HDD 20 GB Hard Disk Space and Above
+
+
+
+FEASIBILITY
+
+Operational feasibility
+Technical Feasibility
+Economical Feasibility
+
+A. Operational Feasibility
+
+
+
+Proposed projects are beneficial only if they can be turned into information systems that will meet the organizations operating requirements. Simply stated, the test of feasibility asks if the system will work when it is developed and installed. Are there any major barriers to implementations? Is there sufficient support for the project from the management? Are current business methods acceptable to the users? Have the users been involved in the planning and development of the project? Will the proposed system cause any harm? 
+
+The purpose of the operational feasibility study is to determine whether the new system will be used if it is developed and installed and whether there will be resistance from users that will be resistance from users that will undermine the possible application benefit.
+There was no difficulty in implemented the software and proposed system is so effective, user friendly, functionally reliable so that the users in the company will find that the new system reduces the hard steps.
+
+B. Technical feasibility
+
+
+A study of function, performances and constraints and improve the ability to create an acceptable system. Technical feasibility is frequently the most difficult area to achieve at the stage of product engineering process. Considering that are normally associated with the technical feasibility includes
+Development risk
+Resource availability Technology
+Technical feasibility study deals with the hardware as well as the software requirements. The scope was whether the work for the project is done with the current requirements and the existing software technology has to be examined in the feasibility study. The outcome was found to be positive.
+
+C. Economic feasibility
+
+
+The cost evaluation is weighted against ultimate income or benefit derived from the developed system or project. Economic justification is generally the "Button line" consideration that includes cost benefit analysis, long term corporate income strategies, impact on other profit centers or products, cost of resources needed for development and potential market growth. When compared to the advantage obtained from implementing the system its cost is affordable. Also the system is designed to meet the modification required in the future. Therefore most of the modifications can be done without much re-work.
+
+
+
+software development cycle also 
+retuirement analysis
+   system design 
+  implemtation 
+  testing 
+  deployment 
+  maintence also 
+
+
+
+
+desgin 
+ ----------------------
+     er diagram 
+ --------------------
+
+coding 
+   at the time of creating project is divided into several parts after running indivisual files project joint into one files that conatain several parts
+ for capturing the image 
+     
+
+key = cv2. waitKey(1)
+webcam = cv2.VideoCapture(0)
+while True:
+    try:
+        check, frame = webcam.read()
+        print(check) #prints true as long as the webcam is running
+        print(frame) #prints matrix values of each framecd 
+        cv2.imshow("Capturing", frame)
+        key = cv2.waitKey(1)
+        if key == ord('s'): 
+            cv2.imwrite(filename='saved_img.jpg', img=frame)
+            webcam.release()
+            img_new = cv2.imread('saved_img.jpg', cv2.IMREAD_GRAYSCALE)
+            img_new = cv2.imshow("Captured Image", img_new)
+            cv2.waitKey(1650)
+            cv2.destroyAllWindows()
+            print("Processing image...")
+            img_ = cv2.imread('saved_img.jpg', cv2.IMREAD_ANYCOLOR)
+            print("Converting RGB image to grayscale...")
+            gray = cv2.cvtColor(img_, cv2.COLOR_BGR2GRAY)
+            print("Converted RGB image to grayscale...")
+            print("Resizing image to 28x28 scale...")
+            img_ = cv2.resize(gray,(28,28))
+            print("Resized...")
+            img_resized = cv2.imwrite(filename='saved_img-final.jpg', img=img_)
+            print("Image saved!")
+        
+
+for storing the image into the file 
+
+
+img = cv2.imread("saved_img.jpg")
+height, width, _ = img.shape
+
+# Cutting image
+# roi = img[0: height, 400: width]
+roi = img
+
+
+
+for converting the image into text their are usen rest api that provided by ----------official website 
+ocr---optical character recognization
+
+
+
+url_api = "https://api.ocr.space/parse/image"
+_, compressedimage = cv2.imencode(".jpg", roi, [1, 90])
+file_bytes = io.BytesIO(compressedimage)
+
+result = requests.post(url_api,
+              files = {"screenshot.jpg": file_bytes},
+              data = {"apikey": "1e97cc8a8888957",
+                      "language": "eng"})
+
+result = result.content.decode()
+result = json.loads(result)
+
+parsed_results = result.get("ParsedResults")[0]
+text_detected = parsed_results.get("ParsedText")
+
+json file which send by the api key provider website 
+{
+        "ParsedResults" : [
+            {
+                "TextOverlay" : {
+                    "Lines" : [
+                        {
+                            "Words": [
+                                {
+                                "WordText": "Word 1",
+                                "Left": 106,
+                                "Top": 91,
+                                "Height": 9,
+                                "Width": 11
+                                },
+                                {
+                                "WordText": "Word 2",
+                                "Left": 121,
+                                "Top": 90,
+                                "Height": 13,
+                                "Width": 51
+                                }
+                                .
+                                .
+                                .
+                                More Words
+                            ],
+                            "MaxHeight": 13,
+                            "MinTop": 90
+                        },
+                        .
+                        .
+                        .
+                        .
+                        More Lines
+                    ],
+                "HasOverlay" : true,
+                "Message" : null
+                },
+                "FileParseExitCode" : "1",
+                "ParsedText" : "This is a sample parsed result",
+                                        
+                "ErrorMessage" : null,
+                "ErrorDetails" : null
+            },
+            {
+                "TextOverlay" : null,
+                "FileParseExitCode" : -10,
+                "ParsedText" : null,
+                                        
+                "ErrorMessage" : "...error message (if any)",
+                "ErrorDetails" : "...detailed error message (if any)"
+            }
+            .
+            .
+            .
+            ],
+        "OCRExitCode" : "2",
+        "IsErroredOnProcessing" : false,
+        "ErrorMessage" : null,
+        "ErrorDetails" : null
+        "SearchablePDFURL": "https://....." (if requested, otherwise null) 
+        "ProcessingTimeInMilliseconds" : "3000"
+
+
+
+
+
+for the speak recognization 
+
+arsed_results = result.get("ParsedResults")[0]
+text_detected = parsed_results.get("ParsedText")
+print(text_detected)
+engine =pyttsx3.init('sapi5')
+voices=engine.getProperty('voices')
+engine.setProperty('voice',voices[0].id)
+ 
+
+
+for storing the file into the os thier are usen 
+file handling 
+
+
+data=this()
+	print(data)
+	data=data[0]
+	print(data)
+	data=int(data)
+	data=data+1
+	data=str(data)
+	print(data)
+	a1=open("this.txt",'w')
+	a1.write(data)
+	a1.close()
+	a=open(data,'w')
+	a.write(text_detected1)
+	a.close()
+
+
+testing 
+ Spelling,grammer,punctuation--Check for proper spelling, typos, and grammar site-wide. Not just in article text and headlines, but also throughout the navigation, calls-to-action, buttons, forms etc.
+speed for loading---according the text size in image it can variate the speed for recognization for text . also threw the dattime moduel 
+software speed also tested 
+storing the different files --
+     also checking different time it can store the data into different 
+    different text files also 
+accessing anytime checking --also checking whenever the user want they can access the right file also 
+
+Secure certification---------  we are using biz.nf hosting website that provide lots of 
+
+
+output
+front image 
+ocr recognization time 
+speed test screenshot 
+after storing files into files 
+also accessing the file 
+also showing image with text on the front end also
+
+conclusion 
+
+with the rise fo the technology and onlie users are now more interested in focused degital interaction.--------launched by sritian student ,is a great resource for providing its user not just audio book also extracted files from the images also.as more users chime in with theri knwoledge ,experience ,software become more rebust and each user have free facaility to create unlimited text files also audio books also 
+-------very degital by nature allowing users to create thousands of object to extract their data.
+here are givin some point which can describe the real facts of this website also 
+1.follow topics and people that interes you
+2.become mangage multiple works at a time  that
+3.imporving knowlege in less time also 
+4.able to access the data from anywhere storing 
+5.without writing we can store into degital libraby also \
+6.learn from the best also 
+ 
+
+
+
